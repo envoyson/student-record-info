@@ -1,6 +1,6 @@
 # Student-Record-Info
 
-![excel-to-powerbi-aminated-diagram].(assets/images/kaggle_to_powerbi.gif).
+![excel-to-powerbi-aminated-diagram].(C:\Users\HP\Desktop\Personal\Data Analysis\Self work\assets\images).
 
 
 **👨‍💻 Author**
