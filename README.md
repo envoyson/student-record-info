@@ -1,5 +1,8 @@
 # Student-Record-Info
 
+![excel-to-powerbi-aminated-diagram].(assets/images/kaggle_to_powerbi.gif).
+
+
 **👨‍💻 Author**
 **Moses Toluwalope Ayoola**
 
