@@ -2,7 +2,8 @@
 
 **👨‍💻 Author**
 **Moses Toluwalope Ayoola**
-👋 Hi, I'm Moses Toluwalope Ayoola, a data analyst with a background in Banking and Finance from Kaduna Polytechnic.
+
+#👋 Hi, I'm Moses Toluwalope Ayoola, a data analyst with a background in Banking and Finance from Kaduna Polytechnic.
 📊 I specialize in tools like Excel, SQL, and Power BI to turn raw data into meaningful insights.
 💡 Passionate about solving business problems through clean data and intuitive dashboards.
 
